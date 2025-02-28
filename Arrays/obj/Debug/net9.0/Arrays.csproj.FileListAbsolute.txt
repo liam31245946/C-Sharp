@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\bin\Debug\net9.0\Arrays.exe
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\bin\Debug\net9.0\Arrays.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\bin\Debug\net9.0\Arrays.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.sourcelink.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Arrays\obj\Debug\net9.0\ref\Arrays.dll
