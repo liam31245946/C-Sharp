@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\bin\Debug\net9.0\Sorting-Searching.exe
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\bin\Debug\net9.0\Sorting-Searching.deps.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\bin\Debug\net9.0\Sorting-Searching.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\bin\Debug\net9.0\Sorting-Searching.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\bin\Debug\net9.0\Sorting-Searching.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.sourcelink.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\refint\Sorting-Searching.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\Sorting-Searching.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Sorting-Searching\obj\Debug\net9.0\ref\Sorting-Searching.dll
