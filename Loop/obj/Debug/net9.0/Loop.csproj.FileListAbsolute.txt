@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\bin\Debug\net9.0\Loop.exe
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\bin\Debug\net9.0\Loop.deps.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\bin\Debug\net9.0\Loop.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\bin\Debug\net9.0\Loop.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\bin\Debug\net9.0\Loop.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.sourcelink.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\refint\Loop.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\Loop.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\Loop\obj\Debug\net9.0\ref\Loop.dll
