@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.sourcelink.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\bin\Debug\net9.0\List-T.exe
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\bin\Debug\net9.0\List-T.deps.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\bin\Debug\net9.0\List-T.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\bin\Debug\net9.0\List-T.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\bin\Debug\net9.0\List-T.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\refint\List-T.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\List-T.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\List-T\obj\Debug\net9.0\ref\List-T.dll
