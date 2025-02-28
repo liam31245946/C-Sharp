@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\bin\Debug\net9.0\LINQ-Method.exe
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\bin\Debug\net9.0\LINQ-Method.deps.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\bin\Debug\net9.0\LINQ-Method.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\bin\Debug\net9.0\LINQ-Method.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\bin\Debug\net9.0\LINQ-Method.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.sourcelink.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\refint\LINQ-Method.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\LINQ-Method.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\LINQ-Method\obj\Debug\net9.0\ref\LINQ-Method.dll
