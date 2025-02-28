@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\bin\Debug\net9.0\conditions.exe
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\bin\Debug\net9.0\conditions.deps.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\bin\Debug\net9.0\conditions.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\bin\Debug\net9.0\conditions.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\bin\Debug\net9.0\conditions.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.sourcelink.json
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\refint\conditions.dll
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.pdb
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\conditions.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Desktop\C#\C-Sharp\conditions\obj\Debug\net9.0\ref\conditions.dll
